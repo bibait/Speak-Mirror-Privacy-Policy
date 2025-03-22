@@ -1,10 +1,10 @@
-# Privacy Policy for Speak Mirror
+# Privacy Policy for Communication Mirror
 
-Thank you for using Speak Mirror. Your privacy is important to me. This Privacy Policy explains what information I collect, how I use it, and your rights regarding your data.
+Thank you for using Communication Mirror. Your privacy is important to me. This Privacy Policy explains what information I collect, how I use it, and your rights regarding your data.
 
 1. Information I Do Not Collect
 
-Speak Mirror is a paid app and does not collect, store, or share any personal data. I do not track user activity, display ads, or use third-party analytics.
+Communication Mirror is a paid app and does not collect, store, or share any personal data. I do not track user activity, display ads, or use third-party analytics.
 
 2. Your Privacy Rights
 
